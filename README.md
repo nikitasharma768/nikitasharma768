@@ -1,6 +1,6 @@
 # Hey there! 👋 Welcome to my GitHub
 
-I'm a **sophomore at Cal State San Marcos** with an insatiable curiosity about how technology is revolutionizing the world around us. As a **Computer Science major**, I've been diving deep into programming, software development, and data structures—building a solid skill set that I’m excited to apply to real-world challenges.
+I'm a **junior at Cal State San Marcos** with an insatiable curiosity about how technology is revolutionizing the world around us. As a **Computer Science major**, I've been diving deep into programming, software development, and data structures—building a solid skill set that I’m excited to apply to real-world challenges.
 
 ## 🚀 What Drives Me
 - **Innovative Projects**: I’m eager to collaborate on cutting-edge tech initiatives that make a difference.
